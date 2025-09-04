@@ -1,5 +1,4 @@
-
-#ATZERET-FACTORIAL
+# ATZERET-FACTORIAL
 
 This program calculates the factorial of a number enterd(between 0-16)
 
