@@ -1,8 +1,8 @@
 # ATZERET-FACTORIAL
 
-This program calculates the factorial of a number enterd(between 0-16)
+This program calculates the factorial of a number entered(between 0-16)
 
-if the number enterd is out of bounds the program will loop until you enter a valid number.
+if the number entered is out of bounds the program will loop until you enter a valid number.
 
 ## specifications
 
