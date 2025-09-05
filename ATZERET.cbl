@@ -24,7 +24,7 @@
       *Hxx-HODAOT
       *-----------------------------------------------------------------
        01  H00.
-           03 H01-KEKET                    PIC X(30)          VALUE
+           03 H01-KELET                    PIC X(30)          VALUE
               'Enter a number between 0-16: '.
            03 H02-SIMAN-ATZERET            PIC X(2)           VALUE
               '!='.
@@ -87,7 +87,7 @@
        B-KELET                             SECTION.
       *-----------------------------------------------------------------
        B-00.
-           DISPLAY H01-KEKET
+           DISPLAY H01-KELET
            ACCEPT  K01-MISPAR
 
            EVALUATE TRUE
