@@ -4,7 +4,7 @@
       *AUTHOR.                             Natali K.
       *DATE-WRITTEN.                       DD/MM/YYYY.
       *REMARKS.    Factorial of input number (0-16).
-      *            NUMBER OUT OUT OF BOUNDS WILL RESULT IN A LOOP UNTIL
+      *            NUMBER OUT OF BOUNDS WILL RESULT IN A LOOP UNTIL
       *            A NUMBER FROM 0-16 IS ENTERED.
       *-----------------------------------------------------------------
        ENVIRONMENT                         DIVISION.
